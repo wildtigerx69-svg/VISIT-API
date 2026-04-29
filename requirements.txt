@@ -1,0 +1,5 @@
+Flask
+aiohttp
+protobuf
+pycryptodome
+uvloop
